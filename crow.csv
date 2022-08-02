@@ -1,0 +1,291 @@
+,,DATA SOURCES:,CROW Polymer Database,,,,,
+,,,V_m (mL/mol),ρ (g/mL),δ (MPa)^1/2,T_g (K),Cp (J/molK),n
+Polymer Name,Nickname,SMILES,Molar Volume,Density,Hildebrand,Glass Trans,Heat Capacity,Refract index
+SIMPLE CARBON POLYMERS,,,,,,,,
+POLYOLEFINS (ALKENES),,,,,,,,
+Poly(ethylene),PE,[*]CC[*],32.9,0.85,16.7,193,63,1.48
+Poly(propylene),PP,[*]CC([*])C,48.8,0.86,16.2,264,90,1.47
+Poly(butylene),PB,[*]CC([*])CC,65.2,0.86,16,245,118,1.5
+Poly(propylethylene); Poly(1-pentene),,[*]CC([*])CCC,82.5,0.85,16.3,238,143,1.47
+Poly(butylethylene); Poly(1-hexene),,[*]CC([*])CCCC,97.3,0.86,16.3,223,178,1.47
+Poly(pentylethylene); Poly(1-heptene),,[*]CC([*])CCCCC,113,0.87,16.4,231,209,1.47
+Poly(hexylethylene); Poly(1-octene),,[*]CC([*])CCCCCC,129,0.87,16.4,218,240,1.47
+Poly(heptylethylene); Poly(1-Nonene),,[*]CC([*])CCCCCCC,145,0.87,16.5,225,270,1.47
+Poly(octylethylene); Poly(1-decene),,[*]CC([*])CCCCCCCC,162,0.86,16.5,232,300,1.47
+Poly(isobutene); Poly(isobutylene),PIB,[*]CC([*])(C)C,63.8,0.88,15.8,202,110,1.51
+Poly(isopropylethylene),,[*]CC([*])C(C)C,78.1,0.9,17.8,323,120,1.46
+Poly(tert-butylethylene),,[*]CC([*])C(C)(C)C,97.9,0.86,15.4,337,142,1.48
+Poly(2-methylbut-1-ene),,[*]CC([*])(C)CC,78.1,0.9,15.7,268,144,1.48
+Poly(isobutylethylene),PMP; TPX,[*]CC([*])CC(C)C,100.8,0.84,14.5,302,142,1.46
+Poly(cyclohexylethylene),PVCH,[*]CC([*])C1CCCCC1,117.9,0.94,16.9,400,161,1.5
+POLYHALOOLEFINS,,,,,,,,
+Poly(tetrafluoroethylene),PTFE,[*]C([*])(F)F,47.9,2.12,12.3,392,93,1.36
+Poly(vinyl fluoride),PVF,[*]CC([*])F,34.4,1.34,15.7,253,60,1.46
+Poly(vinyl chloride),PVC,[*]CC([*])Cl,45.2,1.38,19.6,350,62,1.53
+Poly(vinyl bromide),,[*]CC([*])Br,50.2,2.13,19.4,373,67,1.62
+Poly(vinylidene fluoride),PVDF,[*]CC([*])(F)F,38.2,1.68,17.5,242,83,1.43
+Saran; Poly(vinylidene chloride),PVDC,[*]CC([*])(Cl)Cl,56.6,1.71,20.6,256,130,1.62
+Poly(chlorotrifluoroethylene),PCTFE,[*]C(F)(F)C([*])(F)Cl,58.3,2,16,360,101,1.42
+POLYDIENES,,,,,,,,
+Poly(vinylethylene); Poly(1;2-butadiene),,[*]CC([*])C=C,59.3,0.91,17.3,261,96,1.5
+Poly(1;4-butadiene),PBD,[*]CC=CC[*],59.7,0.89,17,171,101,1.53
+Poly(1;4-pentadiene),,[*]CC=CC[*](C),76.5,0.89,16.1,208,129,1.51
+Poly(cyclopentene),PCP; PPT,[*]C=CCCC[*],76,0.9,16.8,178,132,1.52
+Polyisoprene (cis),IR,[*]CCC=C([*])C,75.1,0.91,16.5,204,130,1.42
+Poly(1-ethyl-1;4-butadiene),,[*]C(CC)=CCC[*],92.2,0.89,17.2,197,165,1.49
+POLYHALODIENES,Class: Polyvinyls; Polydienes,,,,,,,
+Polychloroprene,,[*]CCC=C([*])Cl,71.3,1.24,18.1,237,135,1.56
+Poly(1-bromo-1-butenylene),,[*]CCC=C([*])Br,78,1.7,18.8,233,134,1.6
+TARGET POLYMERS,,,,,,,,
+POLYESTERS,,,,,,,,
+Polyglycolide,PGA,[*]CC(=O)O[*],38.3,1.52,23.1,312,112,1.51
+Poly(4-hydroxybutyrate),,[*]CCC(=O)O[*],70.6,1.22,20.4,221,159,1.49
+Poly(3-hydroxybutyrate),,[*]C(C)CC(=O)O[*],70.7,1.22,19.2,276,118,1.48
+Poly(caprolactone),PCL,[*]CCCCCC(=O)O[*],102.3,1.12,19.2,207,207,1.46
+Poly(ethylene phthalate),,[*]CCOC(=O)c1ccccc1C(=O)O[*],143.6,1.34,21.9,297,223,1.57
+Poly(ethylene 2;6-naphthalate),PEN,[*]CCOC(=O)c1ccc2cc(C(=O)O[*])ccc2c1,179,1.35,21.6,392,273,1.6
+Polylactic acid,PLA,[*]OC(C)C([*])=O,57.2,1.26,20.2,332,99,1.47
+POLYADIPATES,Class: Polyester,,,,,,,
+Poly(ethylene adipate),,[*]CCOC(=O)CCCCC(=O)O[*],141,1.22,19.8,230,317,1.48
+Poly(propylene adipate),,[*]CCCOC(=O)CCCCC(=O)O[*],157,1.18,20,215,344,1.49
+Poly(butylene adipate),,[*]CCCCOC(=O)CCCCC(=O)O[*],179,1.12,19.7,202,394,1.49
+POLYISOPHTHALATES,Class: Polyester,,,,,,,
+Poly(ethylene isophthalate),,[*]CCOC(=O)c1cccc(C(=O)O[*])c1,144,1.34,23.3,324,223,1.57
+Poly(tetramethylene isophthalate); Poly(butylene isophthalate),,[*]CCCCOC(=O)c1cccc(C(=O)O[*])c1,174,1.27,21,297,274,1.55
+Poly(bisphenol A isophthalate),BPA-IPA,[*]Oc1ccc(C(C)(C)c2ccc(OC(=O)c3cccc(C([*])=O)c3)cc2)cc1,296.2,1.21,20.5,462,407,1.6
+POLYSEBACATES,Class: Polyester,,,,,,,
+Poly(ethylene sebacate),,[*]CCOC(=O)CCCCCCCCC(=O)O[*],209,1.09,19.2,244,449,1.48
+Poly(butylene sebacate); Poly(tetramethylene sebacate) ,,[*]CCCCOC(=O)CCCCCCCCC(=O)O[*],225.7,1.14,18.9,214,501,1.48
+Poly(hexylene sebacate); Poly(hexamethylene sebacate),,[*]CCCCCCOC(=O)CCCCCCCCC(=O)O[*],276.1,1.03,18.6,213,562,1.48
+POLYSUCCINATES,Class: Polyester,,,,,,,
+Poly(ethylene succinate),,[*]CCOC(=O)CCC(=O)O[*],106,1.36,21.4,267,256,1.47
+Poly(propylene succinate); Poly(trimethylene succinate),,[*]CCCOC(=O)CCC(=O)O[*],122,1.3,20.8,232,288,1.49
+Poly(butylene succinate); Poly(tetramethylene succinate),,[*]CCCCOC(=O)CCC(=O)O[*],136.7,1.26,20.9,238,317,1.49
+Poly(hexylene succinate),,[*]CCCCCCOC(=O)CCC(=O)O[*],174,1.15,19.7,220,378,1.49
+POLYTEREPHTHALATES,Class: Polyester,,,,,,,
+Poly(ethylene terephthalate),PET,[*]CCOC(=O)c1ccc(C(=O)O[*])cc1,144,1.34,21.2,344,219,1.58
+Poly(trimethylene terephthalate),PTT,[*]CCCOC(=O)c1ccc(C(=O)O[*])cc1,153.9,1.34,21.4,326,236,1.56
+Poly(butylene terephthalate); Poly(tetramethylene terephthalate),PBT; PTMT,[*]CCCCOC(=O)c1ccc(C(=O)O[*])cc1,175.5,1.26,22.4,313,268,1.55
+Poly(cyclohexanedimethylene terephthalate),PCT,[*]C(=O)c1ccc(cc1)C(=O)OCC2CCC(CC2)CO[*],229.5,1.2,20.2,364,339,1.54
+Poly(Bisphenol A terephthalate),BPA-TPA,[*]Oc1ccc(C(C)(C)c2ccc(OC(=O)c3ccc(C([*])=O)cc3)cc2)cc1,296.2,1.21,20.5,472,407,1.6
+POLYETHERS (GLYCOLS),,,,,,,,
+Polyacetal; Poly(formaldehyde),POM,[*]CO[*],24.5,1.23,21.1,211,61,1.5
+Poly(ethylene glycol),PEO; PEG,[*]CCO[*],39,1.13,20.4,225,91,1.46
+Poly(trimethylene glycol); Poly(oxytrimethylene),,[*]CCCO[*],54.9,1.06,19.2,197,119,1.47
+Poly(tetrahydrofuran),PTMO; PTMEG,[*]CCCCO[*],73.7,0.98,17.5,189,148,1.48
+Poly(hexamethylene oxide),,[*]CCCCCCO[*],104.4,0.96,17.8,204,216,1.47
+Poly(propylene glycol),PPG,[*]CC(C)O[*],57.9,1,17.3,205,112,1.45
+Poly(epichlorohydrin),,[*]CC(CCl)O[*],68.9,1.34,19.7,253,150,1.51
+Poly(oxymethylene-oxyethylene),,[*]CCOCO[*],63.5,1.17,20.9,209,136,1.47
+Poly(oxymethylene-oxytetramethylene),,[*]CCCCOCO[*],97.2,1.05,18.4,189,194,1.48
+Poly(glycidyl methyl ether),,[*]C(COC)CO[*],80.5,1.1,18.8,211,183,1.46
+Poly(3-butoxypropylene oxide),,[*]C(COCCCC)CO[*],133,0.98,18,194,274,1.47
+Poly(3-hexoxypropylene oxide),,[*]C(COCCCCCC)CO[*],164,0.97,17.8,189,334,1.47
+Poly[1;1-bis(chloromethyl)trimethylene oxide],,[*]C(CCl)(CCl)CCO[*],111.5,1.39,19.8,272,177,1.54
+POLYETHERKETONES,Class: Polyoxides/ethers/acetals; Polyketones,,,,,,,
+Poly(ether ketone),,[*]Oc1ccc(C(=O)c2ccc([*])cc2)cc1,155.2,1.27,23,431,202,1.66
+Poly(ether ether ketone),PEEK,[*]Oc1ccc(Oc2ccc(C(=O)c3ccc([*])cc3)cc2)cc1,228.1,1.26,21.9,421,320,1.67
+Poly(ether ketone ketone),PEKK,[*]Oc1ccc(C(=O)c2ccc(C(=O)c3ccc([*])cc3)cc2)cc1,236,1.28,23.1,437,300,1.64
+POLYPHENYLETHERS (PHENYLENEOXIDES),Class: Polyoxides/ethers/acetals,,,,,,,
+Poly(p-phenylene oxide),,[*]Oc1ccc([*])cc1,73.8,1.22,21.2,361,108,1.63
+Poly(2;6-dimethyl-p-phenylene oxide),PPE,[*]Oc1c(C)cc([*])cc1C,112.8,1.06,18.3,483,149,1.58
+Poly(2;6-diphenyl-p-phenylene oxide),PPPO,[*]Oc1c(-c2ccccc2)cc([*])cc1-c1ccccc1,214.3,1.14,20.6,497,273,1.6
+POLYETHERSULFONES,Class: Polyoxides/ethers/acetals; Polysulfones,,,,,,,
+Poly(ethersulfone),PES,[*]Oc1ccc(S(=O)(=O)c2ccc([*])cc2)cc1,169.3,1.37,23,490,233,1.6
+Poly(ether ether sulfone),PEES,[*]Oc1ccc(Oc2ccc(S(=O)(=O)c3ccc([*])cc3)cc2)cc1,244.1,1.33,23.5,479,330,1.63
+Poly(phenylsulfone),PPSU; PPSF,[*]Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)c1ccc([*])cc1,310.4,1.29,22.7,482,410,1.67
+Polysulfone; Bisphenol A Polysulfone,PSU; PSF,[*]Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc([*])cc4)cc3)cc2)cc1,358.2,1.24,21.2,459,480,1.64
+POLYURETHANES,,,,,,,,
+Poly[(diethylene glycol)-alt-(1;6-hexamethylene diisocyanate)],PEG 100 - HMDI,[*]CCOCCOC(=O)NCCCCCCNC(=O)O[*],218,1.26,23.8,281,543,1.52
+Poly[(tetraethylene glycol)-alt-(1;6-hexamethylene diisocyanate)],PEG 200 - HMDI,[*]CCOCCOCCOCCOC(=O)NCCCCCCNC(=O)O[*],298,1.22,22.8,258,745,1.51
+Poly[(1;4-butanediol)-alt-(4;4'-diphenylmethane diisocyanate)],MDI-BD,[*]CCCCOC(=O)Nc1ccc(cc1)Cc2ccc(cc2)NC(=O)O[*],275.7,1.23,23.5,363,575,1.57
+Poly[(ethylene glycol)-alt-(4;4'-diphenylmethane diisocyanate)],EG - MDI,[*]CCOC(=O)Nc1ccc(cc1)Cc2ccc(cc2)NC(=O)O[*],243.7,1.28,21,412,516,1.58
+Poly[(tetrahydrofuran 1000)-alt-(4;4'-diphenylmethane diisocyanate)],PTMG 1000 - MDI,[*]CCCCOCCCCOCCCCOCCCCOCCCCOCCCCOCCCCOCCCCOCCCCOCCCCOCCCCOCCCCOCCCCOCCCCOC(=O)Nc1ccc(cc1)Cc1ccc(cc1)NC(=O)O[*],1218,1.05,19.7,223,2538,
+OTHER CARBON POLYMERS,,,,,,,,
+POLYKETONES,See above for POLYETHERKETONES,,,,,,,
+Poly(ethyleneketone),,[*]CCC([*])=O,45.2,1.24,24.5,291,76,1.52
+Poly(propyleneketone),,[*]CC(C)C([*])=O,63.1,1.11,21.5,312,98,1.49
+POLYPHENYLENES (AROMATICS),See above for POLYPHENYLETHERS,,,,,,,
+Poly(p-phenylene),PPP,[*]c1ccc([*])cc1,68.6,1.11,20.2,558,85,1.65
+Poly(p-phenylene vinylene),PPV,[*]c1ccc(cc1)C=C[*],95.2,1.07,19.2,353,120,1.69
+Poly(p-xylene),PPX,[*]CCc1ccc([*])cc1,99.2,1.05,19.1,343,135,1.57
+Poly(2-chloro-p-xylylene),,[*]Cc1c(Cl)cc(cc1)C[*],115,1.2,19.6,358,151,1.59
+POLYAMIDES (LACTAMS),,,,,,,,
+Nylon 3,PA3,[*]CCC(=O)N[*],57.3,1.24,32,384,98,1.54
+Nylon 6,N6; PA6,[*]CCCCCC(=O)N[*],104.4,1.08,25.5,325,166,1.53
+Nylon 8,PA8,[*]CCCCCCCC(=O)N[*],135.9,1.04,24.5,324,224,1.5
+Nylon 10,PA10,[*]CCCCCCCCCC(=O)N[*],166,1.02,21.9,315,270,1.5
+Nylon 11,PA11,[*]CCCCCCCCCCC(=O)N[*],180.1,1.02,21.5,315,294,1.5
+Nylon 12,PA12,[*]CCCCCCCCCCCC(=O)N[*],197.3,1,21.1,313,319,1.53
+Nylon 4;6,PA4-6,[*]CCCCNC(=O)CCCCC(=O)N[*],179,1.11,26.5,353,293,1.52
+Nylon 6;6,N66; PA6-6,[*]CCCCCCNC(=O)CCCCC(=O)N[*],209.9,1.08,26,324,328,1.53
+Nylon 6;9,PA6-9,[*]CCCCCCNC(=O)CCCCCCCC(=O)N[*],249,1.08,23.5,332,416,1.51
+Nylon 6;10,PA6-10,[*]CCCCCCNC(=O)CCCCCCCCC(=O)N[*],271.5,1.04,23.1,323,449,1.54
+Nylon 6;12,PA6-12,[*]CCCCCCNC(=O)CCCCCCCCCCC(=O)N[*],293,1.06,22.4,319,482,1.53
+Nylon 10;10,PA10-10,[*]CCCCCCCCCCNC(=O)CCCCCCCCC(=O)N[*],341,0.99,21.9,323,539,1.5
+Poly(hexamethylene isophthalamide),PA 6I,[*]CCCCCCNC(=O)c1cccc(C(=O)N[*])c1,215,1.15,26,395,324,1.57
+Nylon 6;T,PA 6T,[*]CCCCCCNC(=O)c1ccc(C(=O)N[*])cc1,215,1.15,26,412,324,1.58
+Kevlar,PPTA; PPPT,[*]Nc1ccc(NC(=O)c2ccc(C([*])=O)cc2)cc1,186.5,1.28,26,600,257,1.65
+Nomex,MPDI,[*]Nc1cccc(NC(=O)c2ccc(C([*])=O)cc2)c1,175.9,1.36,28.6,537,271,1.65
+Poly(nonamethylene terephthalamide),PA 9T,[*]CCCCCCCCCNC(=O)c1ccc(C(=O)N[*])cc1,264,1.1,24.3,394,398,1.55
+POLYEPOXIDES (HYDROXYETHERS),,,,,,,,
+Phenoxy Resin; Poly(Bisphenol A-co-epichlorohydrin),,[*]CC(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)O[*],242,1.18,22.1,372,346,1.6
+Poly(Bisphenol F-co-epichlorohydrin),DGEBF,[*]CC(O)COc1ccc(cc1)Cc2ccc(cc2)O[*],219,1.17,22.2,353,300,1.59
+Poly(bisphenol-A diglycidyl ether- alt - ethylenediamine),,[*]CC(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCN[*],352.5,1.14,22.4,410,508,1.57
+Poly(bisphenol-A diglycidyl ether-alt-1;6-diamino hexane),,[*]CC(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCN[*],416.5,1.1,21.2,386,606,1.56
+Poly(bisphenol-A diglycidyl ether-alt-1;8-diamino octane),,[*]CC(O)COc1ccc(cc1)C(C)(C)c2ccc(cc2)OCC(O)CNCCCCCCCCN[*],449,1.08,20.7,376,655,
+POLYANHYDRIDES,,,,,,,,
+Poly(azelaic anhydride),,[*]OC(=O)CCCCCCCC([*])=O,150.5,1.13,19.3,247,329,1.5
+Poly(sebacic anhydride),,[*]OC(=O)CCCCCCCCC([*])=O,164.3,1.12,19.1,256,224,1.49
+Poly(4;4'-tetramethylenedibenzoic anhydride),,[*]OC(=O)c1ccc(cc1)CCCCc2ccc(cc2)C([*])=O,236.1,1.19,20.3,316,321,1.57
+Poly(4;4'-pentamethylenedibenzoic anhydride),,[*]OC(=O)c1ccc(cc1)CCCCCc2ccc(cc2)C([*])=O,252.2,1.17,20.1,320,334,1.56
+POLYCARBONATES,,,,,,,,
+Poly(ethylene carbonate),QPAC 25,[*]CCOC(=O)O[*],62,1.42,24.7,290,118,1.47
+Poly(propylene carbonate),PPC; QPAC 40,[*]OC(C)COC([*])=O,81,1.26,22,310,140,1.46
+Poly(4;4'-thiodiphenylene carbonate),,[*]Oc1ccc(Sc2ccc(OC([*])=O)cc2)cc1,180.2,1.36,22.3,386,259,1.67
+Poly(bisphenol A carbonate),PC,[*]Oc1ccc(C(C)(C)c2ccc(OC([*])=O)cc2)cc1,210.2,1.21,20.4,430,305,1.59
+Poly(bisphenol B carbonate),,[*]Oc1ccc(C(C)(CC)c2ccc(OC([*])=O)cc2)cc1,227.4,1.18,20.1,415,330,1.58
+Poly(bisphenol F carbonate),,[*]Oc1ccc(Cc2ccc(OC([*])=O)cc2)cc1,182.4,1.24,21.6,407,259,1.62
+Poly(tetramethylbisphenol A carbonate),TMPC,[*]Oc1c(C)cc(C(C)(C)c2cc(C)c(OC([*])=O)c(C)c2)cc1C,286.3,1.08,18.8,471,406,1.52
+Poly(2;6;3';5'-tetrachloro bisphenol A carbonate),,[*]Oc1c(Cl)cc(C(C)(C)c2cc(Cl)c(OC([*])=O)c(Cl)c2)cc1Cl,272.2,0.92,20.6,500,374,1.6
+POLYSULFIDES (THIOETHERS),Class: Polysulfides,,,,,,,
+Poly(ethylene sulfide),,[*]CCS[*],46.4,1.3,18.9,223,107,1.64
+Poly(propylene sulfide),,[*]CC(C)S[*],68.2,1.08,17.9,228,134,1.6
+Poly(1;4-phenylene sulfide),PPS,[*]Sc1ccc([*])cc1,80.1,1.33,21.1,363,110,1.71
+POLYVINYLS,,,,,,,,
+POLYSTYRENES,Classes: Polyvinyls,,,,,,,
+Polystyrene,PS,[*]CC([*])c1ccccc1,99.2,1.05,18.3,373,126,1.59
+Poly(α-methylstyrene),PAMS; PαMS,[*]CC([*])(C)c1ccccc1,110.4,1.07,18.4,445,150,1.59
+Poly(2-methylstyrene),PMS,[*]CC([*])c1ccccc1C,114.9,1.03,18.8,409,154,1.58
+Poly(3-methylstyrene),,[*]CC([*])c1cccc(C)c1,115,1.03,18.8,370,154,1.56
+Poly(4-methylstyrene),PPMS,[*]CC([*])c1ccc(C)cc1,115.1,1.03,18.8,380,150,1.58
+Poly(4-tert-butylstyrene),,[*]CC([*])c1ccc(C(C)(C)C)cc1,168.7,0.95,16.6,402,224,1.54
+Poly(2-methoxystyrene),,[*]CC([*])c1ccccc1OC,122.4,1.1,19.4,348,169,1.59
+POLYHALOSTYRENES,Classes: Polystyrenes; Polyvinyls,,,,,,,
+Poly(4-fluorostyrene),,[*]CC([*])c1ccc(F)cc1,102,1.2,18.8,376,117,1.56
+Poly(2;5-difluorostyrene),,[*]CC([*])c1cc(F)ccc1F,106,0.96,17.7,374,137,1.52
+Poly(2-chlorostyrene),,[*]CC([*])c1ccccc1Cl,114,1.22,19,395,147,1.6
+Poly(3-chlorostyrene),,[*]CC([*])c1cccc(Cl)c1,114,1.22,19.3,363,147,1.6
+Poly(4-chlorostyrene),,[*]CC([*])c1ccc(Cl)cc1,112.6,1.23,19.2,398,141,1.6
+Poly(4-bromostyrene),,[*]CC([*])c1ccc(Br)cc1,119,0.87,19.7,411,140,1.62
+POLYNITRILES,Class: Polyvinyls,,,,,,,
+Poly(acrylonitrile),PAN,[*]CC([*])C#N,44.8,1.18,26.2,383,69,1.51
+Poly(methacrylonitrile),PMAN,[*]CC([*])(C)C#N,60.2,1.11,22.9,388,91,1.56
+POLYVINYL ESTERS,Class: Polyvinyls,,,,,,,
+Poly(vinyl formate),,[*]CC([*])OC=O,55.5,1.3,18.3,307,85,1.48
+Poly(vinyl acetate),PVAc; PVA,[*]CC([*])OC(C)=O,72.3,1.19,19.6,307,109,1.48
+Poly(vinyl propionate),,[*]CC([*])OC(=O)CC,89.6,1.12,18.6,283,144,1.47
+Poly(vinyl butyrate),PVB,[*]CC([*])OC(=O)CCC,104.5,1.09,18.6,271,216,1.47
+Poly(vinyl valerate),,[*]CC([*])OC(=O)CCCC,118.5,1.08,18.4,248,246,1.48
+Poly(vinyl caproate); Poly(vinyl hexanoate),,[*]CC([*])OC(=O)CCCCC,133,1.07,18.2,236,276,1.48
+Poly(vinyl stearate),,[*]CC([*])OC(=O)CCCCCCCCCCCCCCCCC,328,0.95,17.4,279,539,1.48
+Poly(vinyl benzoate),,[*]CC([*])OC(=O)c1ccccc1,124,1.2,20.8,344,164,1.58
+POLYVINYL ETHERS,Class: Polyvinyls,,,,,,,
+Poly(methyl vinyl ether),PVME,[*]CC([*])OC,55.6,1.05,18.3,245,113,1.46
+Poly(ethyl vinyl ether),,[*]CC([*])OCC,74.1,0.97,18.1,234,151,1.46
+Poly(propyl vinyl ether),,[*]CC([*])OCCC,87.8,0.94,18.1,224,181,1.46
+Poly(butyl vinyl ether),,[*]CC([*])OCCCC,109,0.92,18.2,220,211,1.46
+Poly(hexyl vinyl ether),,[*]CC([*])OCCCCCC,138.5,0.93,17.2,198,271,1.46
+Poly(octyl vinyl ether),,[*]CC([*])OCCCCCCCC,171,0.91,17.1,193,332,1.46
+Poly(isopropyl vinyl ether),,[*]CC([*])OC(C)C,93.2,0.92,17.9,270,178,1.45
+Poly(isobutyl vinyl ether),,[*]CC([*])OCC(C)C,109.4,0.92,17.9,255,209,1.45
+Poly(sec-butyl vinyl ether),,[*]CC([*])OC(C)CC,108,0.92,16.8,253,209,1.47
+Poly(vinyl formal),,[*]CC1CC([*])OCO1,99.1,79.8,1.2,325,,1.49
+Poly(vinyl butyral),PVB,[*]CC1CC([*])OC(CCC)O1,127,1.11,19,344,,1.49
+POLYVINYL KETONES,Class: Polyvinyls,,,,,,,
+Poly(vinyl methyl ketone),,[*]CC([*])C(C)=O,62.6,1.12,20.7,301,97,1.5
+Poly(methyl isopropenyl ketone),,[*]CC([*])(C)C(C)=O,74.1,1.14,20.2,370,120,1.52
+Poly(vinyl ethyl ketone),,[*]CC([*])C(=O)CC,81.8,1.03,20.2,268,173,1.49
+Poly(vinyl phenyl ketone); Poly(benzoylethylene),,[*]CC([*])C(=O)c1ccccc1,111,1.19,22,323,154,1.61
+Poly(vinylpyrrolidone),PVP,[*]CC([*])N1CCCC1=O,88.9,1.25,23.9,443,139,1.55
+POLYVINYL ALCOHOLS,Class: Polyvinyls,,,,,,,
+Poly(vinyl alcohol),PVA; PVAL,[*]CC([*])O,34.4,1.29,30.5,353,62,1.53
+Poly(vinyl formal),,[*]C1CC(OCO1)C[*],79.8,1.24,,325,,1.49
+Poly(4-hydroxystyrene); Poly(4-vinyl phenol),,[*]CC([*])c1ccc(O)cc1,103.6,1.16,23.6,430,140,1.61
+Poly(vinyl butyral),PVB,[*]CC1CC([*])OC(CCC)O1,127,1.11,19,344,,1.49
+POLYACRYLATES (PROPENOATES),Class: Polyacrylics; Polyvinyls,,,,,,,
+Poly(acrylic acid),PAA,[*]CC([*])C(=O)O,51.1,1.41,21.3,374,90,1.51
+Poly(methyl acrylate),PA; PMA,[*]CC([*])C(=O)OC,70.4,1.22,20,280,114,1.48
+Poly(ethyl acrylate),,[*]CC([*])C(=O)OCC,89.4,1.12,19.1,250,180,1.47
+Poly(propyl acrylate),,[*]CC([*])C(=O)OCCC,103.1,1.11,18.7,231,170,1.48
+Poly(butyl acrylate),,[*]CC([*])C(=O)OCCCC,118.7,1.08,18.5,220,231,1.47
+Poly(hexyl acrylate),,[*]CC([*])C(=O)OCCCCCC,151.5,1.03,18.1,215,306,1.48
+Poly(n-octyl acrylate),,[*]CC([*])C(=O)OCCCCCCCC,188,0.98,17.9,208,367,1.46
+Poly(stearyl acrylate),PSA,[*]CC([*])C(=O)OCCCCCCCCCCCCCCCCCC,344,0.94,17.7,311,565,1.48
+Poly(cyclohexyl acrylate),,[*]CC([*])C(=O)OC1CCCCC1,142.7,1.08,19,289,207,1.51
+Poly(benzyl acrylate),,[*]CC([*])C(=O)OCc1ccccc1,140.9,1.15,19.5,282,201,1.57
+Poly(isopropyl acrylate),,[*]CC([*])C(=O)OC(C)C,106,1.08,18.2,271,213,1.47
+Poly(isobutyl acrylate),,[*]CC([*])C(=O)OCC(C)C,119.3,1.07,18.2,240,231,1.47
+Poly(sec-butyl acrylate),,[*]CC([*])C(=O)OC(C)CC,122.1,1.07,18,253,243,1.47
+Poly(tert-butyl acrylate),,[*]CC([*])C(=O)OC(C)(C)C,128.2,1,17.7,311,188,1.48
+Poly(2-ethylhexyl acrylate),,[*]CC([*])C(=O)OCC(CC)CCCC,191.8,0.96,18.5,221,364,1.47
+Poly(cyanomethyl acrylate),PCMA,[*]CC([*])C(=O)OCC#N,82.1,1.35,26.3,296,141,1.5
+Poly(2-cyanoethyl acrylate),,[*]CC([*])C(=O)OCCC#N,89.2,1.4,28.4,277,220,1.5
+Poly(2;2;3;3-tetrafluoropropyl acrylate),,[*]CC([*])C(=O)OCC(F)(F)C(F)F,122.5,1.52,16.5,249,270,1.42
+Poly(4-chlorophenyl acrylate),,[*]CC([*])C(=O)Oc1ccc(Cl)cc1,140,1.05,19.6,331,193,1.58
+POLYACRYLAMIDES,Class: Polyacrylics; Polyvinyls,,,,,,,
+Poly(acrylamide),,[*]CC([*])C(N)=O,54.6,1.3,25.9,438,96,1.45
+Poly(N-isopropyl acrylamide),PNIPA,[*]CC([*])C(=O)NC(C)C,107.8,1.05,23.1,403,168,1.5
+Poly(N-sec-butyl acrylamide),,[*]CC([*])C(=O)NC(C)CC,123.7,1.03,22.6,390,194,1.49
+Poly(N-tert-butyl acrylamide),,[*]CC([*])C(=O)NC(C)(C)C,123,1.03,23,401,190,1.5
+Poly(N-octyl acrylamide),,[*]CC([*])C(=O)NCCCCCCCC,183.5,1,21.8,220,389,1.49
+Poly(N-phenylacrylamide),,[*]CC([*])C(=O)Nc1ccccc1,128.5,1.15,24.9,498,177,1.61
+POLYCYANOACRYLATES,Class: Polyacrylics; Polyvinyls,,,,,,,
+Poly(methyl cyanoacrylate),CA,[*]CC([*])(C#N)C(=O)OC,83.6,1.33,29.2,436,137,1.49
+Poly(ethyl cyanoacrylate),,[*]CC([*])(C#N)C(=O)OCC,98.6,1.27,23.5,422,163,1.49
+Poly(butyl cyanoacrylate),,[*]CC([*])(C#N)C(=O)OCCCC,130.9,1.17,22,374,216,1.5
+Poly(hexyl cyanoacrylate),,[*]CC([*])(C#N)C(=O)OCCCCCC,163,1.11,20.8,359,268,1.5
+Poly(octyl cyanoacrylate),,[*]CC([*])(C#N)C(=O)OCCCCCCCC,195.5,1.07,20.1,322,397,1.49
+POLYMETHACRYLATES,Class: Polyacrylics; Polyvinyls,,,,,,,
+Poly(methacrylic acid),PMAA,[*]CC([*])(C)C(=O)O,67,1.29,26.7,501,112,1.52
+Poly(methyl methacrylate),PMMA,[*]CC([*])(C)C(=O)OC,87.1,1.15,19,378,137,1.49
+Poly(ethyl methacrylate),PEMA,[*]CC([*])(C)C(=O)OCC,103,1.11,18.4,338,166,1.5
+Poly(propyl methacrylate),PPMA,[*]CC([*])(C)C(=O)OCCC,119,1.08,18.4,319,,1.48
+Poly(butyl methacrylate),PBMA,[*]CC([*])(C)C(=O)OCCCC,135,1.05,17.9,294,237,1.48
+Poly(hexyl methacrylate),PnHMA,[*]CC([*])(C)C(=O)OCCCCCC,169,1.01,17.4,266,324,1.48
+Poly(Octyl methacrylate),,[*]CC([*])(C)C(=O)OCCCCCCCC,204.2,0.097,17.1,228,392,1.48
+Poly(decyl methacrylate),,[*]CC([*])(C)C(=O)OCCCCCCCCCC,240,0.95,17.4,211,453,1.48
+Poly(dodecyl methacrylate),,[*]CC([*])(C)C(=O)OCCCCCCCCCCCC,274,0.93,16.8,218,511,1.47
+Poly(stearyl methacrylate),,[*]CC([*])(C)C(=O)OCCCCCCCCCCCCCCCCCC,374.5,0.9,16,312,677,1.48
+Poly(cyclohexyl methacrylate),PCHMA,[*]CC([*])(C)C(=O)OC1CCCCC1,153,1.1,18.5,380,229,1.51
+Poly(phenyl methacrylate),PPhMA,[*]CC([*])(C)C(=O)Oc1ccccc1,134,1.21,20.1,383,197,1.56
+Poly(benzyl methacrylate),,[*]CC([*])(C)C(=O)OCc1ccccc1,150.3,1.17,20.3,327,224,1.59
+Poly(2-phenylethyl methacrylate),,[*]CC([*])(C)C(=O)OCCc1ccccc1,168.5,1.13,19.4,352,250,1.55
+Poly(isopropyl methacrylate),,[*]CC([*])(C)C(=O)OC(C)C,121.7,1.05,18,356,189,1.46
+Poly(isobutyl methacrylate),,[*]CC([*])(C)C(=O)OCC(C)C,135,1.05,18,326,227,1.48
+Poly(sec-butyl methacrylate),PsBMA,[*]CC([*])(C)C(=O)OC(C)CC,135,1.05,17.6,333,215,1.48
+Poly(tert-butyl methacrylate),,[*]CC([*])(C)C(=O)OC(C)(C)C,139,1.02,17.1,391,210,1.46
+Poly(2-ethoxyethyl methacrylate),,[*]CC([*])(C)C(=O)OCCOCC,145.6,1.09,18.6,297,234,1.5
+Poly(4-tert-butylcyclohexyl methacrylate),,[*]CC([*])(C)C(=O)OC1CCC(C(C)(C)C)CC1,228,0.99,17.4,403,315,1.5
+Poly(2;2;3;3-tetrafluoropropyl methacrylate),,[*]CC([*])(C)C(=O)OCC(F)(F)C(F)F,122.5,1.52,16.2,344,233,1.42
+Poly(2-chloroethyl methacrylate),,[*]CC([*])(C)C(=O)OCCCl,112.6,1.32,19.6,365,187,1.5
+POLYMETHACRYLAMIDES,Class: Polyacrylics; Polyvinyls,,,,,,,
+Polymethacrylamide,PMAAM,[*]CC([*])(C)C(N)=O,75.6,1.13,23.3,486.5,118,1.46
+Poly(N-acetylmethacrylamide),,[*]CC([*])(C)C(=O)NC(=O)C,112,1.14,26.8,445,168,1.52
+Poly(N-tert-butyl methacrylamide),,[*]CC([*])(C)C(=O)NC(C)(C)C,138,1.02,21.6,433,213,1.5
+Poly(N-benzyl methacrylamide),,[*]CC([*])(C)C(=O)NCc1ccccc1,155.5,1.13,22.5,495,226,1.59
+POLYHYDROXY(METH)ACRYLATES,Class: Polyacrylics; Polyvinyls,,,,,,,
+Poly(2-hydroxyethyl acrylate),PHEA,[*]CC([*])C(=O)OCCO,88.4,1.31,25.5,259,221,1.51
+Poly(2-hydroxyethyl methacrylate),PHEMA,[*]CC([*])(C)C(=O)OCCO,97,1.25,23.8,375,179,1.51
+Poly(2-hydroxypropyl methacrylate),PHPMA,[*]CC([*])(C)C(=O)OCC(C)O,108.2,1.33,22.4,349,201,1.5
+POLYITACONATES (METHYLENE SUCCINATES),Class: Polyacrylics; Polyvinyls,,,,,,,
+Poly(dimethyl itaconate),,[*]CC([*])(CC(=O)OC)C(=O)OC,122.2,1.29,19.6,373,208,1.22
+Poly(dipropyl itaconate),,[*]CC([*])(CC(=O)OCCC)C(=O)OCCC,186.7,1.15,18.6,306,328,1.48
+Poly(dibutyl itaconate),,[*]CC([*])(CC(=O)OCCCC)C(=O)OCCCC,219,1.11,18.2,285,370,1.49
+Poly(dihexyl itaconate),,[*]CC([*])(CC(=O)OCCCCCC)C(=O)OCCCCCC,284,1.05,17.5,255,486,
+POLYFUMARATES (BUTENEDIOATES),Class: Polyacrylics; Polyvinyls,,,,,,,
+Poly(dimethyl fumarate),,[*]C([*])C(=O)OC,115.5,1.25,19.9,373,185,1.48
+Poly(diethyl fumarate),,[*]C([*])C(=O)OCC,145.5,1.18,18.6,284,238,1.48
+Poly(dipropyl fumarate),,[*]C([*])C(=O)OCCC,165.7,1.21,19.7,268,291,1.48
+Poly(dibutyl fumarate),,[*]C([*])C(=O)OCCCC,205,1.12,18.7,242,343,1.48
+POLYVINYL SULFIDES,Class: Polyvinyls,,,,,,,
+Poly(methyl vinyl sulfide),,[*]CC([*])SC,66.8,1.11,19.1,272,134,1.58
+Poly(ethyl vinyl sulfide),,[*]CC([*])SCC,82.4,1.07,22.1,266,165,1.56
+Poly(vinyl propyl sulfide),,[*]CC([*])SCCC,99.9,1.02,17.6,253,195,1.54
+Poly(butyl vinyl sulfide),,[*]CC([*])SCCCC,118.6,0.98,17.5,253,225,1.53
+Poly(vinyl phenyl sulfide),,[*]CC([*])Sc1ccccc1,118.2,1.15,19.3,386,152,1.66
+SILICONE POLYMERS,,,,,,,,
+POLYSILOXANES,,,,,,,,
+Poly(dimethylsiloxane),PDMS,[*]O[Si]([*])(C)C,76.5,0.97,15.3,149,116,1.39
+Poly(diethylsiloxane),PDES,[*]O[Si]([*])(CC)CC,99.2,0.99,,137,165,1.45
+Poly(methylphenylsiloxane),PMPS,[*]O[Si]([*])(C)c1ccccc1,125,1.09,,245,,1.52
