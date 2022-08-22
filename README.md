@@ -1,6 +1,8 @@
 # PolyPy
 Polymer property prediction UROP project with CDFG (MIT CSAIL)
 
+Last updated: 8/22/22, 2:01 PM
+
 Databases uploaded: CROW, Freesolv
 Benchmarks implemented: Tao_MLP, my_MLP, 
 
