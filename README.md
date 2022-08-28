@@ -1,7 +1,7 @@
 # PolyPy
 Polymer property prediction UROP project with CDFG (MIT CSAIL)
 
-Last updated: 8/22/22, 2:01 PM
+Last updated: 8/28/2022, 9:53 AM
 
 Databases uploaded: CROW, Freesolv, Azfal-Bicerano, IBM permeability
 
