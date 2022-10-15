@@ -1,8 +1,20 @@
-# PolyPy
-Polymer property prediction UROP project with CDFG (MIT CSAIL)
+# PolyPy3
+Polymer and Molecular Property Prediction using Machine Learning
+Last updated: 10/15/2022
 
-Last updated: 9/9/2022, 12:40 PM
+Samuel W. Song
+Undergraduate research project (UROP) with the Computational Design and Fabrication Group (CDFG)
+Massachusetts Institute of Technology (MIT)
+Computer Science and Artificial Intelligence Laboratory (CSAIL)
 
-Databases uploaded: CROW, Freesolv, Azfal-Bicerano, IBM permeability (seperate x6)
+Databases:
+- CROW PolymerDatabase (Glass Transition Temperature)
+- Azfal-Bicerano (Glass Transition Temperature)
+- Freesolv (Free Energy of Hydration)
+- Lipophilicity (Log D7.4)
+- Log-Permeability data from IBM (individual x6 and combined Bayesian)
 
-Benchmarks implemented: MLP, CNN_1D, RF
+Benchmarks implemented
+- Multi-Layer Perceptron (Keras/TensorFlow, PyTorch)
+- 1D Convolutional Neural Network (Keras/TensorFlow)
+- Random Forest (Sklearn)
