@@ -1,5 +1,5 @@
 # PolyPy
-Polymer and Molecular Property Prediction using Machine Learning
+Polymer and Molecular Property Prediction using Machine Learning;
 Last updated: 11/8/2022
 
 Samuel W. Song
