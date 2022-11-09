@@ -3,7 +3,8 @@ Polymer and Molecular Property Prediction using Machine Learning;
 Last updated: 11/8/2022
 
 Samuel W. Song
-Undergraduate research project (UROP) with the Computational Design and Fabrication Group (CDFG)
+
+Undergraduate research project (UROP) with the Computational Design and Fabrication Group (CDFG);
 Computer Science and Artificial Intelligence Laboratory (CSAIL) at the Massachusetts Institute of Technology (MIT) 
 
 Notable files:
