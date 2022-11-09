@@ -1,4 +1,4 @@
-# PolyPy3
+# PolyPy
 Polymer and Molecular Property Prediction using Machine Learning
 Last updated: 11/8/2022
 
