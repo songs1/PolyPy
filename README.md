@@ -6,6 +6,11 @@ Samuel W. Song
 Undergraduate research project (UROP) with the Computational Design and Fabrication Group (CDFG)
 Computer Science and Artificial Intelligence Laboratory (CSAIL) at the Massachusetts Institute of Technology (MIT) 
 
+Notable files:
+- "PolyPy3_load_data": imports datasets and creates Morgan fingerprint representations and semi-random test-split indices
+- "PolyPy3_benchmarks": defines ML algorithms and functions that run benchmark experiments
+- "PolyPy_exec{#}": examples of how to load and run benchmark experiments
+
 Databases:
 - CROW PolymerDatabase (Glass Transition Temperature)
 - Azfal-Bicerano (Glass Transition Temperature)
